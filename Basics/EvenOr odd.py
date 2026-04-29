@@ -1,13 +1,4 @@
-#Example1:Checking even or Odd my directly pasing inputs
-# #n= 28
-#if n % 2 == 0:
-#    print("Number is even")
-#else:
-#    print("Number is odd")
-
-
-
-# Example 2: To take inputs from users
+# Program to check whether a number is Even or Odd
 def check_even_odd(n):  #Function to check even r odd
     if n % 2 == 0:
         print("Number is even")
