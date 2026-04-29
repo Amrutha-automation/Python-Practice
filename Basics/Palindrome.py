@@ -1,3 +1,4 @@
+# Program to check palindrome (string & number)
 # plaindrome check for string
 def palindrome(s):
     s=str(s)
