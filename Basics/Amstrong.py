@@ -1,4 +1,4 @@
-
+# Program to check Armstrong number
 n=int(input('Enter the number: '))
 order= len(str(n))
 temp=n
