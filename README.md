@@ -1,16 +1,24 @@
 # Python Practice Programs
-This repository contains Python programs covering:
-- Basic concepts
-- Loops and conditions
+This repository contains Python programs covering basic concepts:
+- Variables
+- Loops
+- Conditionals
 - Functions
 
-## Programs Included
-- Even/Odd Checker
-- Prime Number Checker
-- Factorial
-- Fibonacci Series
-- Palindrome
-- Armstrong Number
+## Folder Structure
+basics/
+- even_odd.py
+- prime.py
+- factorial.py
+- fibonacci.py
+- palindrome.py
+- armstrong.py
+
+## Purpose
+This project is part of my journey from Manual Testing to QA Automation.
+
+## How to Run
+python basics/filename.py
 
 ## Why this repo?
 Created as part of my transition from Manual Testing to QA Automation using Python.
