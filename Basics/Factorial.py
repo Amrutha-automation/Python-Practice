@@ -1,3 +1,4 @@
+# Program to find factorial of a number
 def Factorial(n):
     result=1
     for i in range (1,n+1):
