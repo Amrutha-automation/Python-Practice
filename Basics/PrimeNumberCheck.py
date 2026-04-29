@@ -1,3 +1,4 @@
+# Program to check if a number is Prime
 def is_prime(n):
     if n <= 1:
         return False
