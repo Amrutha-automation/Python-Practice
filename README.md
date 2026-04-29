@@ -1,31 +1,49 @@
 # Python Practice Programs
-This repository contains Python programs covering basic concepts:
+
+This repository contains Python programs covering fundamental programming concepts.
+
+## 📌 Topics Covered
 - Variables
 - Loops
 - Conditionals
 - Functions
 
-## Folder Structure
+## 📂 Folder Structure
 basics/
 - even_odd.py
-- prime.py
+- prime_number.py
 - factorial.py
 - fibonacci.py
 - palindrome.py
 - armstrong.py
 
-## Purpose
-This project is part of my journey from Manual Testing to QA Automation.
+## 🚀 Features
+- Clean and structured code
+- Function-based implementation
+- Input validation (basic)
+- Menu-driven program (main.py)
 
-## How to Run
-python basics/filename.py
+## ▶️ How to Run
 
-## Why this repo?
-Created as part of my transition from Manual Testing to QA Automation using Python.
+1. Clone the repository:
+git clone https://github.com/Amrutha-automation/Python-Practice.git
 
-## Next Steps
-- API Testing using Python
-- Automation using Playwright
-  
-## Author
+2. Navigate to folder:
+cd Python-Practice
+
+3. Run main program:
+python main.py
+
+## 🧪 Sample Output
+
+Enter number: 5  
+Output: Prime
+
+Enter number: 121  
+Output: Palindrome
+
+## 🎯 Purpose
+This project is part of my journey transitioning from **Manual Testing to QA Automation using Python**.
+
+## 👩‍💻 Author
 Amruthashree
